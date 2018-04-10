@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">IDEAL ALAM</string>
+    <string name="kakao_app_key"> 642e33bfbf095dbd347d499ff7e13b53 </string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_checklist">ChecklistActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="textview">TextView</string>
+    <string name="title_home">그대</string>
+    <string name="title_board">당신</string>
+    <string name="title_Road">위치</string>
+    <string name="h_message1">그대가 좋아할 사람</string>
+    <string name="h_message2">당신을 좋아할 사람</string>
+    <string name="h_button">로그인</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="f_title">어떤 모습을 좋아하나요?</string>
+    <string name="f_title2">당신은 어떤 사람인가요?</string>
+    <string name="f_Roadtitle3">위치</string>
+
+    <!-- fragment check list 속의 타이틀 제목  -->
+    <string name="c_titlesex1">1. 성별</string>
+    <string name="c_title1">2. 옷 입는 취향</string>
+
+
+
+</resources>
